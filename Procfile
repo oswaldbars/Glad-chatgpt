@@ -1,0 +1,1 @@
+web: gunicorn tradingview_screener_flask_app:app
